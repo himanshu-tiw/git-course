@@ -1,2 +1,4 @@
 User Service is created
 added 1st tag.
+
+added user avatar
